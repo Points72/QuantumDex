@@ -1,0 +1,5 @@
+{
+    "javascript.preferences.autoImportFileExcludePatterns": [
+        "{   \"css.lint.unknownAtRules\": \"ignore\" }"
+    ]
+}
